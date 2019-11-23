@@ -1,2 +1,3 @@
-  # Coursera - Introduction to the Biology of Cancer
+  # Coursera
+  ## Introduction to the Biology of Cancer
 Notes
